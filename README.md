@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Jordan</h1>
 <h3 align="center">A fullstack software engineer from Chicago, IL</h3>
 
-<p align="left"> <a href="https://twitter.com/jordanvelos" target="blank"><img src="https://img.shields.io/twitter/follow/jordanvelos?logo=twitter&style=for-the-badge" alt="jordanvelos" /></a> </p>
-
 - 👨‍💻 Checkout my portfolio at [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
 
 - 🔭 I’m currently creating with **HTML/CSS, JavaScript, Node, Express, and MongoDB**
