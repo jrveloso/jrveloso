@@ -28,7 +28,7 @@
 <h3 align="center" color="white">Coco's Bar and Grill Restaurant</h2>
 <div align="center" >  
 <a href='https://cocos-bar-and-grill-restaurant.netlify.app/'>
-<img src="" alt="" height="322px" width="100%" />
+<img src="restaurant.gif" alt="Restaurant Landing Page" height="322px" width="100%" />
 </a>
 <br>
 <br>
