@@ -28,7 +28,7 @@
 <h3 align="center" color="white">Coco's Bar and Grill Restaurant</h2>
 <div align="center" >  
 <a href='https://cocos-bar-and-grill-restaurant.netlify.app/'>
-<img src="restaurant.gif" alt="Restaurant Landing Page" height="322px" width="100%" />
+<img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
 </a>
 <br>
 <br>
@@ -41,24 +41,5 @@
 </a>
 </p>
 <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center" color="white">Coming Soon</h2>
-<div align="center" >  
-<a href='https://www.google.com'>
-<img src="https://source.unsplash.com/600x400/?city" alt="" height="322px" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://www.google.com" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://www.google.com" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-</a>
-</p>
-<p><strong>TECH STACK</strong> - DESCRIPTION</p>
 </div>
 </table>
