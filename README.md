@@ -42,9 +42,7 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Designed and created a responsive gratitude journal CRUD app with MVC structure and built in authentication.</p>
 </div>
-<div align="center">
-<table>
-<tr>
+</td>
 <td width="50%">
 <h3 align="center" color="white">Coco's Bar and Grill Restaurant</h2>
 <div align="center" >  
@@ -63,4 +61,5 @@
 </p>
 <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
 </div>
+</td>
 </table>
