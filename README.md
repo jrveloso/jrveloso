@@ -25,6 +25,27 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center" color="white">Gratitude Journal CRUD app with MVC & Auth</h2>
+<div align="center" >  
+<a href='https://gratitude-journal-crud-auth.herokuapp.com/'>
+<img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/jrveloso/gratitude-journal-CRUD-Auth-app" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://gratitude-journal-crud-auth.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Designed and created a responsive gratitude journal CRUD app with MVC structure and built in authentication.</p>
+</div>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 <h3 align="center" color="white">Coco's Bar and Grill Restaurant</h2>
 <div align="center" >  
 <a href='https://cocos-bar-and-grill-restaurant.netlify.app/'>
