@@ -28,7 +28,7 @@
 <h3 align="center" color="white">Gratitude Journal CRUD app with MVC & Auth</h2>
 <div align="center" >  
 <a href='https://gratitude-journal-crud-auth.herokuapp.com/'>
-<img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="322" width="100%" />
+<img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
 </a>
 <br>
 <br>
@@ -47,7 +47,7 @@
 <h3 align="center" color="white">Coco's Bar and Grill Restaurant</h2>
 <div align="center" >  
 <a href='https://cocos-bar-and-grill-restaurant.netlify.app/'>
-<img src="restaurant.gif" alt="Restaurant Landing Page" height="322" width="100%" />
+<img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
 </a>
 <br>
 <br>
