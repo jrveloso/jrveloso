@@ -20,7 +20,7 @@
 
 <!--Project Section -->
 
-<h2 align="center">Some of my Projects </h2>
+<h2 align="center">Some Projects </h2>
 <div align="center">
 <table>
 <tr>
