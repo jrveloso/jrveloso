@@ -98,6 +98,6 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>TECH STACK</strong> - DESCRIPTION</p>
+<p><strong></strong> - </p>
 </div>
 </table>
