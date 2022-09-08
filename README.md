@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive CRUD app with MVC structure and authentication.</p>
+<p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive CRUD app with MVC and auth.</p>
 </div>
 </td>
 <td width="50%">
