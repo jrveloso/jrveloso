@@ -101,6 +101,7 @@ I also enjoy **watching/discussing the NBA, playing tennis and gaming**
 <p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe built using OOP </p>
 </div>
 </td>
+<tr>
 <td width="50%">
 <h3 align="center" color="white">Coming Soon</h2>
 <div align="center" >  
