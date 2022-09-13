@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Jordan</h1>
 <h3 align="center">A fullstack software engineer from Chicago, IL</h3>
 
-- 👨‍💻 Checkout my portfolio at [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
+My portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
 
-- 🔭 I’m currently creating with **HTML/CSS, JavaScript, Node, Express, and MongoDB**
+Currently creating with **HTML/CSS, JavaScript, Node, Express, and MongoDB**
 
-- 📫 How to reach me: **jordanrveloso@gmail.com**
+Reach me at **jordanrveloso@gmail.com**
 
-- I also enjoy **watching/discussing the NBA, playing tennis and gaming**
+I also enjoy **watching/discussing the NBA, playing tennis and gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -80,6 +80,25 @@
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for Sunnyside Creative Agency.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Tic Tac Toe</h2>
+<div align="center" >  
+<a href='https://tictactoebattle.netlify.app/' target="_blank">
+<img src="tictactoe.gif" alt="tic tac toe board" height="auto" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/jrveloso/tic-tac-toe/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://tictactoebattle.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe built using OOP </p>
 </div>
 </td>
 <td width="50%">
