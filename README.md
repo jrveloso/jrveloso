@@ -98,7 +98,7 @@ I also enjoy **watching/discussing the NBA, playing tennis and gaming**
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe built using OOP </p>
+<p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe board built with OOP in mind</p>
 </div>
 </td>
 <tr>
