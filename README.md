@@ -102,6 +102,7 @@ I also enjoy **watching/discussing the NBA, playing tennis and gaming**
 </div>
 </td>
 <tr>
+<!---- coming
 <td width="50%">
 <h3 align="center" color="white">Coming Soon</h2>
 <div align="center" >  
@@ -120,4 +121,5 @@ I also enjoy **watching/discussing the NBA, playing tennis and gaming**
 </p>
 <p><strong></strong> - </p>
 </div>
+---->
 </table>
