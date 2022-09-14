@@ -3,7 +3,7 @@
 
 My portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
 
-Currently creating with **HTML/CSS, JavaScript, MongoDB, Express, React and Node**
+Currently creating with **HTML/CSS, Bootstrap, JavaScript, MongoDB, Express, React and Node**
 
 Reach me at **jordanrveloso@gmail.com**
 
