@@ -1,5 +1,5 @@
-<h1 align="left">Hi there, I'm Jordan</h1>
-<h3 align="left">A fullstack software engineer from Chicago, IL</h3>
+<h1 align="center">Hi there, I'm Jordan</h1>
+<h3 align="left">I'm a fullstack software engineer from Chicago, IL</h3>
 
 My portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
 
