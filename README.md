@@ -68,7 +68,7 @@ You can reach me at **jordanrveloso@gmail.com**
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive CRUD app w/ MVC structure and auth.</p>
+      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive gratitude journal CRUD app w/ MVC structure and auth.</p>
     </div>
   </td>
 
