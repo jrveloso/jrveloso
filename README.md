@@ -20,7 +20,7 @@ I also enjoy **watching/discussing the NBA, playing tennis and gaming**
 
 <!--Project Section -->
 
-<h2 align="left">Some Projects </h2>
+<h2 align="center">Some Projects </h2>
 <div align="center">
 <table>
 <tr>
