@@ -93,28 +93,6 @@ You can reach me at **jordanrveloso@gmail.com**
   </div>
 </td>
 ---->
-
-<td width="50%">
-  <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
-  <div align="center" >  
-    <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
-      <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
-    </a>
-    <br>
-    <br>
-    <p>
-      <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
-        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-      </a>  
-      <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-      </a>
-    </p>
-    <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
-  </div>
-</td>
-<tr>
-
 <td width="50%">
   <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h2>
   <div align="center" >  
@@ -132,6 +110,27 @@ You can reach me at **jordanrveloso@gmail.com**
       </a>
     </p>
     <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for Sunnyside Creative Agency.</p>
+  </div>
+</td>
+<tr>
+  
+ <td width="50%">
+  <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
+  <div align="center" >  
+    <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
+      <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
+    </a>
+    <br>
+    <br>
+    <p>
+      <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
+        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+      </a>  
+      <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+      </a>
+    </p>
+    <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
   </div>
 </td>
 
