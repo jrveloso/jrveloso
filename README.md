@@ -72,6 +72,7 @@ You can reach me at **jordanrveloso@gmail.com**
     </div>
   </td>
 
+<!------
 <td width="50%">
   <h3 align="center" color="white">To Do List CRUD App w/ MVC & Auth</h2>
   <div align="center" >  
@@ -91,7 +92,7 @@ You can reach me at **jordanrveloso@gmail.com**
     <p><strong>JavaScript, CSS3, Bootstrap, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Collaborated with other devs to build a responsive To Do List app w/ MVC structure and auth.</p>
   </div>
 </td>
-<tr>
+---->
 
 <td width="50%">
   <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
@@ -112,6 +113,7 @@ You can reach me at **jordanrveloso@gmail.com**
     <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
   </div>
 </td>
+<tr>
 
 <td width="50%">
   <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h2>
@@ -132,7 +134,6 @@ You can reach me at **jordanrveloso@gmail.com**
     <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for Sunnyside Creative Agency.</p>
   </div>
 </td>
-<tr>
 
 <td width="50%">
   <h3 align="center" color="white">Tic Tac Toe</h2>
@@ -153,6 +154,7 @@ You can reach me at **jordanrveloso@gmail.com**
     <p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe board built with OOP in mind</p>
   </div>
 </td>
+<tr>
 <!---- coming
 <td width="50%">
 <h3 align="center" color="white">Coming Soon</h2>
