@@ -8,7 +8,7 @@ Here's my portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.n
 You can reach me at **jordanrveloso@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Bootstrap-005da8?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
