@@ -9,15 +9,15 @@ You can reach me at **jordanrveloso@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Bootstrap-005da8?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JavaScript-005da8?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-005da8?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Express.js-005da8?style=for-the-badge&logo=express&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/MongoDB-005da8?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-005da8?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-005da8?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height=25>
   <!---
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>         
