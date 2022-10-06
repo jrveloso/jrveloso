@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Jordan</h1>
+<h1 align="left">Hi there, I'm Jordan</h1>
 <h3 align="left">I'm a fullstack software engineer from Chicago, IL</h3>
 
-I find great satisfication in creating and implementing successful front and back end web applications.
+I create and successfully implement fullstack web applications.
 
 Here's my portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
 
@@ -48,7 +48,7 @@ You can reach me at **jordanrveloso@gmail.com**
 
 <!--Project Section -->
 
-<h2 align="center">Some Projects </h2>
+<h2 align="center">Projects </h2>
 <div align="center">
 <table>
 <tr>
