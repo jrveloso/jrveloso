@@ -8,7 +8,17 @@ Here's my portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.n
 You can reach me at **jordanrveloso@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height=25>
+  <!---
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>         
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -22,13 +32,8 @@ You can reach me at **jordanrveloso@gmail.com**
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>     </a>
+---->
 </p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </a>
@@ -68,10 +73,11 @@ You can reach me at **jordanrveloso@gmail.com**
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive CRUD app w/ MVC structure and auth.</p>
+      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive gratitude journal CRUD app w/ MVC structure and auth.</p>
     </div>
   </td>
 
+<!------
 <td width="50%">
   <h3 align="center" color="white">To Do List CRUD App w/ MVC & Auth</h2>
   <div align="center" >  
@@ -91,28 +97,7 @@ You can reach me at **jordanrveloso@gmail.com**
     <p><strong>JavaScript, CSS3, Bootstrap, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Collaborated with other devs to build a responsive To Do List app w/ MVC structure and auth.</p>
   </div>
 </td>
-<tr>
-
-<td width="50%">
-  <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
-  <div align="center" >  
-    <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
-      <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
-    </a>
-    <br>
-    <br>
-    <p>
-      <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
-        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-      </a>  
-      <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-      </a>
-    </p>
-    <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
-  </div>
-</td>
-
+---->
 <td width="50%">
   <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h2>
   <div align="center" >  
@@ -133,6 +118,26 @@ You can reach me at **jordanrveloso@gmail.com**
   </div>
 </td>
 <tr>
+  
+ <td width="50%">
+  <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
+  <div align="center" >  
+    <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
+      <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
+    </a>
+    <br>
+    <br>
+    <p>
+      <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
+        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+      </a>  
+      <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+      </a>
+    </p>
+    <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
+  </div>
+</td>
 
 <td width="50%">
   <h3 align="center" color="white">Tic Tac Toe</h2>
@@ -153,6 +158,7 @@ You can reach me at **jordanrveloso@gmail.com**
     <p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe board built with OOP in mind</p>
   </div>
 </td>
+<tr>
 <!---- coming
 <td width="50%">
 <h3 align="center" color="white">Coming Soon</h2>
