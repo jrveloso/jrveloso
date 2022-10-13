@@ -58,7 +58,7 @@ You can reach me at **jordanrveloso@gmail.com**
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center" color="white">Gratitude CRUD app w/ MVC & Auth</h2>
+    <h3 align="center" color="white">Gratitude Journal</h2>
     <div align="center" >  
       <a href='https://gratitude-journal-crud-auth.herokuapp.com/' target="_blank">
         <img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
@@ -73,7 +73,7 @@ You can reach me at **jordanrveloso@gmail.com**
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Built a responsive gratitude journal CRUD app w/ MVC structure and auth.</p>
+      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Designed and deployed a fullstack gratitude journal w/ auth for users to track the blessings in their lives.</p>
     </div>
   </td>
 
@@ -114,7 +114,7 @@ You can reach me at **jordanrveloso@gmail.com**
         <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
       </a>
     </p>
-    <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for Sunnyside Creative Agency.</p>
+    <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Sunnyside Creative Agency.</p>
   </div>
 </td>
 <tr>
@@ -155,7 +155,7 @@ You can reach me at **jordanrveloso@gmail.com**
         <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
       </a>
     </p>
-    <p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe board built with OOP in mind</p>
+    <p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe</p>
   </div>
 </td>
 <tr>
