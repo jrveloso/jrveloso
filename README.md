@@ -70,7 +70,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p align="center"A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
+      <p align="center">A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
     </td>
   <tr>
     <td width="50%">
