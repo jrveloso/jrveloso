@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Jordan</h1>
-<h3 align="left">I'm a fullstack software engineer from Chicago, IL</h3>
+<h3 align="center">I'm a fullstack software engineer from Chicago, IL</h3>
 
+<p align="center">
 Continually inspired by the ways technology can improve our everyday lives and motivated to create positive changes with it.
 
 Here's my [site](https://jordan-veloso.netlify.app/) for more info!
@@ -22,9 +23,9 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
 ---->
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/jordanvelos" target="blank">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/JordanRVeloso" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordanvelos" height="30" width="40" />
     </a>
   <a href="https://linkedin.com/in/jordan-veloso" target="blank">
@@ -34,13 +35,13 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
 
 <!--Project Section -->
 
-<h2 align="center">Projects </h2>
+<h2 align="center">Projects</h2>
 <div align="center">
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center" color="white">Gratitude Journal</h2>
-    <div align="center" >  
+    <h3 align="center" color="white">Gratitude Journal</h3>
+    <br />
       <a href='https://gratitude-journal-crud-auth.herokuapp.com/' target="_blank">
         <img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
       </a>
@@ -55,7 +56,6 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
         </a>
       </p>
       <p>A CRUD app w/ auth for users to practice daily gratitude.</p>
-    </div>
   </td>
 
 <!------
@@ -79,14 +79,12 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
   </div>
 </td>
 ---->
-<td width="50%">
-  <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h2>
-  <div align="center" >  
+  <td width="50%">
+    <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h3>
+    <br />
     <a href='https://sunnyside-creatives-agency-challenge.netlify.app/' target="_blank">
       <img src="sunnyside.gif" alt="Creative Agency Landing Page" height="auto" width="100%" />
     </a>
-    <br>
-    <br>
     <p>
       <a href="https://github.com/jrveloso/sunnyside-landing-page" target="_blank">
         <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -96,38 +94,32 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
       </a>
     </p>
     <p>A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
-  </div>
-</td>
+  </td>
 <tr>
   
  <td width="50%">
   <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
-  <div align="center" >  
-    <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
-      <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
+  <br />
+  <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
+    <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
+  </a>
+  <p>
+    <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
+      <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+    </a>  
+    <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
     </a>
-    <br>
-    <br>
-    <p>
-      <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
-        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-      </a>  
-      <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-      </a>
-    </p>
-    <p>A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
-  </div>
+  </p>
+  <p>A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
 </td>
 
 <td width="50%">
-  <h3 align="center" color="white">Tic Tac Toe</h2>
-  <div align="center" >  
+  <h3 align="center" color="white">Tic Tac Toe</h3>
+  <br />
     <a href='https://tictactoebattle.netlify.app/' target="_blank">
       <img src="tictactoe.gif" alt="tic tac toe board" height="auto" width="100%" />
     </a>
-    <br>
-    <br>
     <p>
       <a href="https://github.com/jrveloso/tic-tac-toe/tree/main" target="_blank">
         <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -137,7 +129,6 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
       </a>
     </p>
     <p>2 player Tic Tac Toe</p>
-  </div>
 </td>
 <tr>
 <!---- coming
