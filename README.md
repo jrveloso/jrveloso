@@ -21,12 +21,6 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>     </a>
 ---->
 </p>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,7 +54,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Designed and deployed a fullstack gratitude journal w/ auth for users to keep track the blessings in their lives.</p>
+      <p>A CRUD app w/ auth for users to practice daily gratitude.</p>
     </div>
   </td>
 
@@ -101,7 +95,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
         <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
       </a>
     </p>
-    <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Sunnyside Creative Agency.</p>
+    <p>A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
   </div>
 </td>
 <tr>
@@ -122,7 +116,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
         <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
       </a>
     </p>
-    <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
+    <p>A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
   </div>
 </td>
 
@@ -142,7 +136,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
         <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
       </a>
     </p>
-    <p><strong>JavaScript, CSS3, HTML5</strong> — 2 player Tic Tac Toe</p>
+    <p>2 player Tic Tac Toe</p>
   </div>
 </td>
 <tr>
