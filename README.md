@@ -1,9 +1,9 @@
-<h1 align="left">Hi there, I'm Jordan</h1>
+<h1 align="center">Hi there, I'm Jordan</h1>
 <h3 align="left">I'm a fullstack software engineer from Chicago, IL</h3>
 
 Continually inspired by the ways technology can improve our everyday lives and motivated to create positive changes with it.
 
-Here's my [https://jordan-veloso.netlify.app/](site) for more info!
+Here's my [site](https://jordan-veloso.netlify.app/) for more info!
 
   <!---
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
