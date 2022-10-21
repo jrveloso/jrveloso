@@ -38,7 +38,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
 <div align="center">
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Gratitude Journal</h3>
       <br />
       <a href='https://gratitude-journal-crud-auth.herokuapp.com/' target="_blank">
@@ -55,7 +55,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
       </p>
       <p align="center">A CRUD app w/ auth for users to practice daily gratitude.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h3>
       <br />
       <a href='https://sunnyside-creatives-agency-challenge.netlify.app/' target="_blank">
@@ -73,7 +73,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
       <p align="center">A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
     </td>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
       <br />
       <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
@@ -90,7 +90,7 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
       </p>
       <p align="center">A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Tic Tac Toe</h3>
       <br />
       <a href='https://tictactoebattle.netlify.app/' target="_blank">
