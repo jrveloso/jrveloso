@@ -1,23 +1,10 @@
 <h1 align="left">Hi there, I'm Jordan</h1>
 <h3 align="left">I'm a fullstack software engineer from Chicago, IL</h3>
 
-I create and successfully implement fullstack web applications.
+Continually inspired by the ways technology can improve our everyday lives and motivated to create positive changes with it.
 
-Here's my portfolio [https://jordan-veloso.netlify.app/](https://jordan-veloso.netlify.app/)
+Here's my [https://jordan-veloso.netlify.app/](site) for more info!
 
-You can reach me at **jordanrveloso@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height=25>
   <!---
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>         
@@ -73,7 +60,7 @@ You can reach me at **jordanrveloso@gmail.com**
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Designed and deployed a fullstack gratitude journal w/ auth for users to track the blessings in their lives.</p>
+      <p><strong>JavaScript, CSS3, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Designed and deployed a fullstack gratitude journal w/ auth for users to keep track the blessings in their lives.</p>
     </div>
   </td>
 
@@ -135,7 +122,7 @@ You can reach me at **jordanrveloso@gmail.com**
         <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
       </a>
     </p>
-    <p><strong>JavaScript, jQuery, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
+    <p><strong>JavaScript, CSS3, HTML5</strong> — Created a fully responsive desktop and mobile web interface for customers of Coco's Bar and Grill.</p>
   </div>
 </td>
 
