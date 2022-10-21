@@ -3,7 +3,7 @@
 
 <p align="center">Continually inspired by the ways technology can improve our everyday lives and motivated to create positive changes with it.</p>
 
-<p align="center">Here's my [site](https://jordan-veloso.netlify.app/) for more info!</p>
+<p align="center">Here's my <a href="https://jordan-veloso.netlify.app" target="_blank">site</a> for more info!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
