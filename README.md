@@ -37,13 +37,14 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
 <h2 align="center">Projects</h2>
 <div align="center">
 <table>
-<tr>
-  <td width="50%">
-    <h3 align="center" color="white">Gratitude Journal</h3>
-    <br />
+  <tr>
+    <td width="50%">
+      <h3 align="center" color="white">Gratitude Journal</h3>
+      <br />
       <a href='https://gratitude-journal-crud-auth.herokuapp.com/' target="_blank">
         <img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
       </a>
+      <br />
       <p align="center">
         <a href="https://github.com/jrveloso/gratitude-journal-CRUD-Auth-app" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -52,69 +53,50 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p>A CRUD app w/ auth for users to practice daily gratitude.</p>
-  </td>
-
-<!------
-<td width="50%">
-  <h3 align="center" color="white">To Do List CRUD App w/ MVC & Auth</h2>
-  <div align="center" >  
-    <a href='https://the-note-taker-96.herokuapp.com/' target="_blank">
-      <img src="todolist.gif" alt="To Do List user page" height="auto" width="100%" />
-    </a>
-    <br>
-    <br>
-    <p>
-      <a href="https://github.com/jsalaski/group96" target="_blank">
-        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-      </a>  
-      <a href="https://the-note-taker-96.herokuapp.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+      <p align="center">A CRUD app w/ auth for users to practice daily gratitude.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h3>
+      <br />
+      <a href='https://sunnyside-creatives-agency-challenge.netlify.app/' target="_blank">
+        <img src="sunnyside.gif" alt="Creative Agency Landing Page" height="auto" width="100%" />
       </a>
-    </p>
-    <p><strong>JavaScript, CSS3, Bootstrap, HTML5, Node, Express, Passport, Mongoose, MongoDB</strong> — Collaborated with other devs to build a responsive To Do List app w/ MVC structure and auth.</p>
-  </div>
-</td>
----->
-  <td width="50%">
-    <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h3>
-    <br />
-    <a href='https://sunnyside-creatives-agency-challenge.netlify.app/' target="_blank">
-      <img src="sunnyside.gif" alt="Creative Agency Landing Page" height="auto" width="100%" />
-    </a>
-    <p align="center">
-      <a href="https://github.com/jrveloso/sunnyside-landing-page" target="_blank">
-        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-      </a>  
-      <a href="https://sunnyside-creatives-agency-challenge.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+      <br />
+      <p align="center">
+        <a href="https://github.com/jrveloso/sunnyside-landing-page" target="_blank">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+        </a>  
+        <a href="https://sunnyside-creatives-agency-challenge.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+        </a>
+      </p>
+      <p align="center"A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
+    </td>
+  <tr>
+    <td width="50%">
+      <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
+      <br />
+      <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
+        <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
       </a>
-    </p>
-    <p>A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
-  </td>
-<tr>
-  <td width="50%">
-    <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
-    <br />
-    <a href='https://cocos-bar-and-grill-restaurant.netlify.app/' target="_blank">
-      <img src="restaurant.gif" alt="Restaurant Landing Page" height="auto" width="100%" />
-    </a>
-    <p align="center">
-      <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
-        <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-      </a>  
-      <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-      </a>
-    </p>
-    <p>A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
-  </td>
-  <td width="50%">
-    <h3 align="center" color="white">Tic Tac Toe</h3>
-    <br />
+      <br />
+      <p align="center">
+        <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+        </a>  
+        <a href="https://cocos-bar-and-grill-restaurant.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+        </a>
+      </p>
+      <p align="center">A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center" color="white">Tic Tac Toe</h3>
+      <br />
       <a href='https://tictactoebattle.netlify.app/' target="_blank">
         <img src="tictactoe.gif" alt="tic tac toe board" height="auto" width="100%" />
       </a>
+      <br />
       <p align="center">
         <a href="https://github.com/jrveloso/tic-tac-toe/tree/main" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -123,9 +105,9 @@ Here's my [site](https://jordan-veloso.netlify.app/) for more info!
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p>2 player Tic Tac Toe</p>
-  </td>
-<tr>
+      <p align="center">Mobile friendly 2 player Tic Tac Toe</p>
+    </td>
+  <tr>
 <!---- coming
 <td width="50%">
 <h3 align="center" color="white">Coming Soon</h2>
