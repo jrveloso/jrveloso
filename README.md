@@ -23,6 +23,23 @@
     <td width="50%" valign="top">
       <h3 align="center" color="white">Gratitude Journal</h3>
       <br />
+      <a href='https://playbook-fullstack-app.herokuapp.com/' target="_blank">
+        <img src="https://media.giphy.com/media/zXmrOrziKNBWcXBrFr/giphy.gif" alt="Playbook Demo" height="auto" width="100%" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/jrveloso/playbook_app" target="_blank">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+        </a>  
+        <a href="https://playbook-fullstack-app.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+        </a>
+      </p>
+      <p align="center">A social CRUD app w/ auth for NBA fans to talk hoops and track stats.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center" color="white">Gratitude Journal</h3>
+      <br />
       <a href='https://gratitude-journal-crud-auth.herokuapp.com/' target="_blank">
         <img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
       </a>
@@ -37,6 +54,7 @@
       </p>
       <p align="center">A CRUD app w/ auth for users to practice daily gratitude.</p>
     </td>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h3>
       <br />
@@ -54,7 +72,6 @@
       </p>
       <p align="center">A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
     </td>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center" color="white">Bar and Grill Restaurant Landing Page</h2>
       <br />
@@ -72,6 +89,7 @@
       </p>
       <p align="center">A responsive desktop and mobile friendly interface for customers of Coco's Bar and Grill.</p>
     </td>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center" color="white">Tic Tac Toe</h3>
       <br />
