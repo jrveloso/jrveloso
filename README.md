@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center" color="white">Gratitude Journal</h3>
+      <h3 align="center" color="white">Playbook</h3>
       <br />
       <a href='https://playbook-fullstack-app.herokuapp.com/' target="_blank">
         <img src="https://media.giphy.com/media/zXmrOrziKNBWcXBrFr/giphy.gif" alt="Playbook Demo" height="auto" width="100%" />
