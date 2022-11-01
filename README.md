@@ -56,6 +56,23 @@
     </td>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center" color="white">KBLS Corp</h2>
+      <br />
+      <a href='https://test-kruz.netlify.app/' target="_blank">
+        <img src="https://media.giphy.com/media/ePJgVmul7o4hSG2kPR/giphy.gif" alt="KBLS Corp Website" height="auto" width="100%" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+        </a>  
+        <a href="https://test-kruz.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+        </a>
+      </p>
+      <p align="center">A simple, responsive and mobile friendly interface designed for clients of KBLS, a logistics company.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Sunnyside Creative Agency Landing Page</h3>
       <br />
       <a href='https://sunnyside-creatives-agency-challenge.netlify.app/' target="_blank">
@@ -71,23 +88,6 @@
         </a>
       </p>
       <p align="center">A responsive desktop and mobile friendly interface for customers of Sunnyside Creative Agency.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center" color="white">KBLS Corp</h2>
-      <br />
-      <a href='https://test-kruz.netlify.app/' target="_blank">
-        <img src="https://media.giphy.com/media/ePJgVmul7o4hSG2kPR/giphy.gif" alt="KBLS Corp Website" height="auto" width="100%" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/jrveloso/restaurant-landing-page" target="_blank">
-          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-        </a>  
-        <a href="https://test-kruz.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-        </a>
-      </p>
-      <p align="center">A responsive desktop and mobile friendly interface for clients of KBLS, a logistics company.</p>
     </td>
   <tr>
     <td width="50%" valign="top">
