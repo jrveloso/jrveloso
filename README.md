@@ -58,7 +58,7 @@
     <td width="50%" valign="top">
       <h3 align="center" color="white">KBLS Corp</h2>
       <br />
-      <a href='https://test-kruz.netlify.app/' target="_blank">
+      <a href='https://kblscorp.com/' target="_blank">
         <img src="https://media.giphy.com/media/ePJgVmul7o4hSG2kPR/giphy.gif" alt="KBLS Corp Website" height="auto" width="100%" />
       </a>
       <br />
