@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       <h3 align="center" color="white">Playbook</h3>
       <br />
-      <a href='https://playbook-fullstack-app.herokuapp.com/' target="_blank">
+      <a href='https://playbook-j0hs.onrender.com' target="_blank">
         <img src="https://media.giphy.com/media/zXmrOrziKNBWcXBrFr/giphy.gif" alt="Playbook Demo" height="auto" width="100%" />
       </a>
       <br />
@@ -31,7 +31,7 @@
         <a href="https://github.com/jrveloso/playbook_app" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://playbook-fullstack-app.herokuapp.com/" target="_blank">
+        <a href="https://playbook-j0hs.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
@@ -40,7 +40,7 @@
     <td width="50%" valign="top">
       <h3 align="center" color="white">Gratitude Journal</h3>
       <br />
-      <a href='https://gratitude-journal-crud-auth.herokuapp.com/' target="_blank">
+      <a href='https://gratitude-journal.onrender.com' target="_blank">
         <img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
       </a>
       <br />
@@ -48,7 +48,7 @@
         <a href="https://github.com/jrveloso/gratitude-journal-CRUD-Auth-app" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://gratitude-journal-crud-auth.herokuapp.com/" target="_blank">
+        <a href="https://gratitude-journal.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
