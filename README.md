@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jordan</h1>
-<h3 align="center">I'm a fullstack software engineer from Chicago, IL</h3>
+<h3 align="center">I'm a software engineer from Chicago, IL</h3>
 
 <p align="center">Continually inspired by the ways technology can improve our everyday lives and motivated to create positive changes with it.</p>
 
@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       <h3 align="center" color="white">Playbook</h3>
       <br />
-      <a href='https://playbook-j0hs.onrender.com' target="_blank">
+      <a href='#' target="_blank">
         <img src="https://media.giphy.com/media/zXmrOrziKNBWcXBrFr/giphy.gif" alt="Playbook Demo" height="auto" width="100%" />
       </a>
       <br />
@@ -31,7 +31,7 @@
         <a href="https://github.com/jrveloso/playbook_app" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://playbook-j0hs.onrender.com" target="_blank">
+        <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
