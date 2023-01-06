@@ -1,19 +1,33 @@
-<h1 align="center">Hi there, I'm Jordan</h1>
-<h3 align="center">I'm a software engineer from Chicago, IL</h3>
+# Hi there, I'm Jordan! 
+I am a software engineer, and former registered nurse.<br>
 
-<p align="center">Continually inspired by the ways technology can improve our everyday lives and motivated to create positive changes with it.</p>
+## I enjoy:
 
-<p align="center">Here's my <a href="https://jordan-veloso.netlify.app" target="_blank">site</a> for more info!</p>
+* Learning and building (more recently in public)
+* Problem-solving creative solutions to improve user experience
+* Creating beautiful websites and tinkering with code <br><br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/JordanRVeloso" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordanvelos" height="30" width="40" />
-    </a>
-  <a href="https://linkedin.com/in/jordan-veloso" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan-veloso" height="30" width="40" />
-  </a>
-</p>
+## 🌱 My skills:
+* Building responsive full stack web applications using Javascript, React, Nodejs, MongoDB
+* Building REST APIs using the MERN stack<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrveloso"/><br><br>
+
+## 📬 How to reach me:
+* [My personal portfolio site](https://jordan-veloso.netlify.app)
+* [My blog site](https://jordandan.hashnode.dev)
+* [LinkedIn](https://linkedin.com/in/jordan-veloso)
+* [Twitter](https://twitter.com/JordanRVeloso)
+
+
+## 🔭 I’m currently working on 
+
+  - A habit tracking web app that encourages sustainable habit building   
+    -  This site is being built with <b>Reactjs, Nodejs, Expressjs, and MongoDB</b>.
+  <br>
+
+## ⚡ Fun fact:
+One of the reasons I transitioned from nursing to technology is because I became interested in the significant impact that thoughtful software had on the workflow of healthcare professionals, which ultimately impacted the outcomes of our patients. I ended up falling in love with the problem-solving and refactoring aspects of programming, which felt similar to how I continually refined my workflow as a nurse so every patient received outstanding care.
+<br><br>
 
 <!--Project Section -->
 <h2 align="center">Projects</h2>
@@ -35,7 +49,7 @@
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p align="center">A social CRUD app w/ auth for NBA fans to talk hoops and track stats.</p>
+      <p align="center">A social CRUD app w/ auth for NBA fans to talk hoops and track stats. My NBA API trial expired, watch a demo <a target="_blank" href="https://www.youtube.com/watch?v=PHN5IcvfWA4">here!</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center" color="white">Gratitude Journal</h3>
