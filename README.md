@@ -37,7 +37,7 @@ One of the reasons I transitioned from nursing to technology is because I became
     <td width="50%" valign="top">
       <h3 align="center" color="white">Playbook</h3>
       <br />
-      <a href='#' target="_blank">
+      <a href='https://playbook-j0hs.onrender.com' target="_blank">
         <img src="https://media.giphy.com/media/zXmrOrziKNBWcXBrFr/giphy.gif" alt="Playbook Demo" height="auto" width="100%" />
       </a>
       <br />
@@ -49,7 +49,7 @@ One of the reasons I transitioned from nursing to technology is because I became
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p align="center">A social CRUD app w/ auth for NBA fans to talk hoops and track stats. My NBA API trial expired, watch a demo <a target="_blank" href="https://www.youtube.com/watch?v=PHN5IcvfWA4">here!</a></p>
+      <p align="center">A social CRUD app w/ auth for NBA fans to talk hoops and track stats.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center" color="white">Gratitude Journal</h3>
