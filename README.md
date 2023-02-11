@@ -45,7 +45,7 @@ One of the reasons I transitioned from nursing to technology is because I became
         <a href="https://github.com/jrveloso/playbook_app" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="#" target="_blank">
+        <a href="https://playbook-j0hs.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
