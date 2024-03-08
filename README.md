@@ -4,7 +4,6 @@ Current software engineer, former registered nurse.<br>
 ## I enjoy:
 
 * Learning and building (collaboratively and alone)
-* Problem-solving creative solutions to improve user experience
 * Creating beautiful websites and refining code <br><br>
 
 ## 🌱 My skills:
