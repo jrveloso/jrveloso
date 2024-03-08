@@ -1,5 +1,5 @@
 # Hey, I'm Jordan 
-I am a software engineer, and former registered nurse.<br>
+Current software engineer, former registered nurse.<br>
 
 ## I enjoy:
 
@@ -49,7 +49,7 @@ I transitioned from nursing to tech because I developed an interest in how softw
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p align="center">An app for NBA fans to talk hoops and track stats.</p>
+      <p align="center">A CRUD app for NBA fans to talk hoops and track stats.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center" color="white">Gratitude Journal</h3>
@@ -66,7 +66,7 @@ I transitioned from nursing to tech because I developed an interest in how softw
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p align="center">A app for users to practice daily gratitude.</p>
+      <p align="center">A CRUD app for users to practice daily gratitude.</p>
     </td>
   <tr>
     <td width="50%" valign="top">
