@@ -1,9 +1,9 @@
-# Hi there, I'm Jordan! 
+# Hey, I'm Jordan 
 I am a software engineer, and former registered nurse.<br>
 
 ## I enjoy:
 
-* Learning and building (more recently in public)
+* Learning and building (collaboratively and alone)
 * Problem-solving creative solutions to improve user experience
 * Creating beautiful websites and refining code <br><br>
 
@@ -12,11 +12,11 @@ I am a software engineer, and former registered nurse.<br>
 <!-- * Building REST APIs using the MERN stack<br><br> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrveloso"/><br><br>
 
-## 📬 How to reach me:
+## 📬 A few ways to reach me:
 * [My personal portfolio site](https://jordan-veloso.netlify.app)
-* [My blog site](https://jordandan.hashnode.dev)
 * [LinkedIn](https://linkedin.com/in/jordan-veloso)
 * [Twitter](https://twitter.com/JordanRVeloso)
+* [My blog site](https://jordandan.hashnode.dev)
 
 
 <!-- ## 🔭 I’m currently working on 
@@ -26,7 +26,7 @@ I am a software engineer, and former registered nurse.<br>
   <br> -->
 
 ## ⚡ Fun fact:
-I transitioned from nursing to tech because I developed an interest in software that could positively (and negatively) impact the day to day workflow of healthcare professionals, which ultimately would affect patient outcomes.
+I transitioned from nursing to tech because I developed an interest in how software could positively (and negatively) impact the day to day workflow of healthcare professionals, ultimately affecting patient outcomes.
 <br><br>
 
 <!--Project Section -->
@@ -72,7 +72,7 @@ I transitioned from nursing to tech because I developed an interest in software 
     <td width="50%" valign="top">
       <h3 align="center" color="white">KBLS Corp</h2>
       <br />
-      <a href='https://kblscorp.com/' target="_blank">
+      <a href='https://kbls.netlify.app/' target="_blank">
         <img src="https://media.giphy.com/media/ePJgVmul7o4hSG2kPR/giphy.gif" alt="KBLS Corp Website" height="auto" width="100%" />
       </a>
       <br />
@@ -80,7 +80,7 @@ I transitioned from nursing to tech because I developed an interest in software 
         <a href="https://github.com/jrveloso/kbls" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://kblscorp.com" target="_blank">
+        <a href="https://kbls.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
