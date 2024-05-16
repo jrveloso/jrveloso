@@ -7,7 +7,7 @@ Current software engineer, former registered nurse.<br>
 * Creating beautiful websites and refining code <br><br>
 
 ## 🌱 My skills:
-* Building responsive full stack web applications using Javascript, React, Nodejs, MongoDB
+* Building and deploying responsive full stack web applications using Javascript, React, Nodejs, MongoDB
 <!-- * Building REST APIs using the MERN stack<br><br> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrveloso"/><br><br>
 
@@ -15,7 +15,7 @@ Current software engineer, former registered nurse.<br>
 * [My personal portfolio site](https://jordan-veloso.netlify.app)
 * [LinkedIn](https://linkedin.com/in/jordan-veloso)
 * [Twitter](https://twitter.com/JordanRVeloso)
-* [My blog site](https://jordandan.hashnode.dev)
+<!-- * [My blog site](https://jordandan.hashnode.dev) -->
 
 
 <!-- ## 🔭 I’m currently working on 
@@ -25,7 +25,7 @@ Current software engineer, former registered nurse.<br>
   <br> -->
 
 ## ⚡ Fun fact:
-I transitioned from nursing to tech because I developed an interest in how software could positively (and negatively) impact the day to day workflow of healthcare professionals, ultimately affecting patient outcomes.
+I transitioned from nursing to tech because I developed an interest in how software could positively (and negatively) impact the day to day workflow of healthcare professionals.
 <br><br>
 
 <!--Project Section -->
