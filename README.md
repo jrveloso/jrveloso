@@ -51,21 +51,21 @@ I transitioned from nursing to tech because I developed an interest in how softw
       <p align="center">A CRUD app for NBA fans to talk hoops and track stats.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center" color="white">Gratitude Journal</h3>
+      <h3 align="center" color="white">IOU Tracker</h3>
       <br />
-      <a href='https://gratitude-journal.onrender.com' target="_blank">
-        <img src="gratitude-journal.gif" alt="Gratitude Journal Demo" height="auto" width="100%" />
+      <a href='https://clipboardiou.netlify.app' target="_blank">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhzaTdoYnJuZm1kZ21sMGZnNmdpejFsdm56dnZjbXdxeDYxeWJlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqPzNyX6E13Gn2u248/giphy.gif" alt="Clipboard IOU" height="auto" width="100%" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/jrveloso/gratitude-journal-CRUD-Auth-app" target="_blank">
+        <a href="https://github.com/jrveloso/tj-iou" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://gratitude-journal.onrender.com" target="_blank">
+        <a href="https://clipboardiou.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
         </a>
       </p>
-      <p align="center">A CRUD app for users to practice daily gratitude.</p>
+      <p align="center">An app for employees to track IOUs at my workplace</p>
     </td>
   <tr>
     <td width="50%" valign="top">
